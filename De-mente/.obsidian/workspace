@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "5768ee265bd79c3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7ac08419596836c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lecturas/El réferi cuenta 9.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94d171af4bb69e15",
+    "type": "split",
+    "children": [
+      {
+        "id": "9481e1095853d7eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c19ea411bb1e96e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "099851aeb581015c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "61d6098c1d6e6b8d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5
+  },
+  "right": {
+    "id": "a964838fd6ac497b",
+    "type": "split",
+    "children": [
+      {
+        "id": "87f0603f91fa808c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "349f2dc8dfa826ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lecturas/El réferi cuenta 9.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ef6deebbcc00468",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lecturas/El réferi cuenta 9.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2bea95e524922c00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "21aad7737433a160",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lecturas/El réferi cuenta 9.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c19ea411bb1e96e4",
+  "lastOpenFiles": [
+    "Book Template.md",
+    "Lecturas/El réferi cuenta 9.md",
+    "Lecturas/Libro “The Purposes of Future Studies”.md",
+    "Historia/Untitled.md",
+    "Formato.md",
+    "Lecturas/Libro Cap 1 \"La Narrativa del Futuro\".md",
+    "Guillermina Baena Paz.md",
+    "Lecturas/Chapter one The Future a very short introduction.md",
+    "Lecturas/La última guerra.md",
+    "Lecturas/Trend Analysis vs Emerging Issues Analysis.md"
+  ]
+}
