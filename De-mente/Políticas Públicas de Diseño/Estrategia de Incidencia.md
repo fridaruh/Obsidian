@@ -1,5 +1,5 @@
 # Estrategia de Incidencia
-
+Tags: #politicapublica #intervencion #leyes 
 _previous note:_
 
 ---

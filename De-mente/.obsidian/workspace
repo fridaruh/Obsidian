@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lecturas/El réferi cuenta 9.md",
+            "file": "Políticas Públicas de Diseño/Charla Brenda Vertiz Marquez.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecturas/El réferi cuenta 9.md",
+                "file": "Políticas Públicas de Diseño/Charla Brenda Vertiz Marquez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecturas/El réferi cuenta 9.md",
+                "file": "Políticas Públicas de Diseño/Charla Brenda Vertiz Marquez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecturas/El réferi cuenta 9.md"
+                "file": "Políticas Públicas de Diseño/Charla Brenda Vertiz Marquez.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c19ea411bb1e96e4",
+  "active": "d7ac08419596836c",
   "lastOpenFiles": [
-    "Book Template.md",
-    "Lecturas/El réferi cuenta 9.md",
-    "Lecturas/Libro “The Purposes of Future Studies”.md",
-    "Historia/Untitled.md",
+    "Políticas Públicas de Diseño/Estrategia de Incidencia.md",
+    "Políticas Públicas de Diseño/Charla Brenda Vertiz Marquez.md",
+    "Políticas Públicas de Diseño/Podcast Políticas públicas y diseño en el laboratorio de innovación de San Pablo Brasil.md",
     "Formato.md",
-    "Lecturas/Libro Cap 1 \"La Narrativa del Futuro\".md",
-    "Guillermina Baena Paz.md",
-    "Lecturas/Chapter one The Future a very short introduction.md",
-    "Lecturas/La última guerra.md",
-    "Lecturas/Trend Analysis vs Emerging Issues Analysis.md"
+    "Lecturas/Cap 1 \"La Narrativa del Futuro\".md",
+    "Lecturas/“The Purposes of Future Studies”.md",
+    "Book Template.md",
+    "Formato Zettelkasten.md",
+    "Historia/Hitos históricos de los Estudios de futuros, primera parte.md",
+    "Lecturas/La última guerra.md"
   ]
 }

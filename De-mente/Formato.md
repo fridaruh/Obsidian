@@ -1,23 +1,23 @@
 # Title
 Tags: #tag
 
-_previous note:_
+**_previous note:_**
 
 ---
 
-_questions & thoughts:_
+**_questions & thoughts:_**
 
 
 
 ---
 
-_consider:_
+**_consider:_**
 
-_source:_ 
+**_source:_** 
 
-_local link:_
+**_local link:_**
 
-_reference:_ 
+**_reference:_** 
 
 ---
 **¿Cómo se relaciona?**
