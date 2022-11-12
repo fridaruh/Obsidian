@@ -1,6 +1,7 @@
-Tags: #tag
+Tags: #contexto #escenarios
 
 **_previous note:_**
+[Elementos de los escenarios]
 
 ---
 
@@ -11,7 +12,8 @@ Tags: #tag
 ---
 
 **_consider:_**
-
+La estación de la calle perdido
+Children of men - Cuarón
 **_source:_** 
 
 **_local link:_**

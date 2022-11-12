@@ -1,4 +1,3 @@
-# Gender Unicorn
 Tags: #tag #non-binary #trans
 
 _previous note:_

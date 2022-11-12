@@ -1,4 +1,4 @@
-# Hitos históricos de los Estudios de futuros, primera parte
+
 Tags: #tag
 
 _previous note:_

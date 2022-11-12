@@ -4,12 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d7ac08419596836c",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
+        "id": "ee2166007af9fb30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "279008b307bf8cec",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -27,7 +33,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -36,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d7ac08419596836c",
+  "active": "279008b307bf8cec",
   "lastOpenFiles": [
-    "Antropología Anticipatoria/EFR.md",
+    "Análisis de tendencias/¿Qué es un buen reporte de tendencias?.md",
     "Formato.md",
-    "Antropología Anticipatoria/Pensar estratégicamente.md",
-    "Antropología Anticipatoria/Antropologia.md",
-    "Lecturas/Cap 1 \"La Narrativa del Futuro\".md",
+    "Escritura Creativa/Elementos de los escenarios.md",
+    "crecimiento económico.md",
     "Historia/Los 4 de futuros de Dator.md",
-    "Métodos/Variables para describir el estudio de futuros.md",
+    "Gender Unicorn.md",
     "Formato Zettelkasten.md",
-    "Composición y Lenguaje Visual/Experimentación y juego.md",
-    "Métodos/Pensamiento sistémico y futuros.md"
+    "Historia/Hitos históricos de los Estudios de futuros, primera parte.md",
+    "Antropología Anticipatoria/EFR.md",
+    "Antropología Anticipatoria/Pensar estratégicamente.md"
   ]
 }
